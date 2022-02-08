@@ -1,23 +1,28 @@
 export const featuredPortfolio = [
     {
         id: 1,
-        title: "Pikachu",
-        img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwaters.crowdicity.com%2Fcategory%2F51438&psig=AOvVaw2NG2MU84r2RMex9D5dSGbD&ust=1644396839149000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCg597d7_UCFQAAAAAdAAAAABAJ",
+        title: "OnlyFriends",
+        img: "assets/OFlogo.jpg",
     },
     {
         id: 2,
-        title: "Charmander",
-        img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwaters.crowdicity.com%2Fcategory%2F51438&psig=AOvVaw2NG2MU84r2RMex9D5dSGbD&ust=1644396839149000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCg597d7_UCFQAAAAAdAAAAABAJ",
+        title: "PKMN:TCG",
+        img: "assets/PKMNlogo.jpeg",
     },
     {
         id: 3,
-        title: "Bulbasaur",
-        img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwaters.crowdicity.com%2Fcategory%2F51438&psig=AOvVaw2NG2MU84r2RMex9D5dSGbD&ust=1644396839149000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCg597d7_UCFQAAAAAdAAAAABAJ",
+        title: "KewlBeans",
+        img: "assets/KBlogo.jpeg",
     },
     {
         id: 4,
-        title: "Squirtle",
-        img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwaters.crowdicity.com%2Fcategory%2F51438&psig=AOvVaw2NG2MU84r2RMex9D5dSGbD&ust=1644396839149000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCg597d7_UCFQAAAAAdAAAAABAJ",
+        title: "Journal Journeys",
+        img: "assets/JJlogo.jpeg",
+    },
+    {
+        id: 5,
+        title: "Love Calculator",
+        img: "assets/LClogo.png",
     },
 ];
 
