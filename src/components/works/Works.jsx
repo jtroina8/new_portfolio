@@ -8,24 +8,27 @@ export default function Works() {
 const data = [
   {
     id: 1,
-    icon: "assets/mobile.png",
-    title: "Web Design",
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-    img: "assets/OFlogo.jpg",
+    icon: "assets/code.png",
+    title: "Web Development",
+    desc: "Currently on Year 2 of React and JavaScript. I specialize in Frontend development, while using Node.js for my fullstack projects.",
+    img: "assets/sample.png",
+    src: "https://github.com/stars/jtroina8/lists/web-development",
 },
 {
     id: 2,
     icon: "assets/mobile.png",
-    title: "Mobile Design",
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-    img: "assets/PKMNlogo.jpeg",
+    title: "Mobile Development",
+    desc: "SwiftUI and React Native have been a second calling for me. The world of mobile development is a guilty pleasure!",
+    img: "assets/mobiledev.jpeg",
+    src: "https://github.com/stars/jtroina8/lists/mobile-development",
 },
 {
     id: 3,
-    icon: "assets/mobile.png",
+    icon: "assets/camera.png",
     title: "Video Editing",
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-    img: "assets/KBlogo.jpeg",
+    desc: "I've been working with Adobe Premiere Pro for about 10 years, specializing in Sports and Gaming Videography.",
+    img: "assets/videoedit.jpeg",
+    src: "https://www.youtube.com/channel/UCCXrK_khQVkR_ouo0wwkRUw",
 },
 ]
 
@@ -47,11 +50,13 @@ const handleClick = (way) => {
                 <h2>{d.title}</h2>
                 <p>{d.desc}
                 </p>
+                <a href={d.src}>
                 <span>Projects</span>
+                </a>
               </div>
             </div>
             <div className="right">
-              <img src="assets/sample.png" alt="" />
+              <img src={d.img} alt="" />
             </div>
           </div>
         </div>))}
