@@ -3,16 +3,19 @@ export const featuredPortfolio = [
         id: 1,
         title: "OnlyFriends",
         img: "assets/OFlogo.jpg",
+        src: "https://github.com/jtroina8/onlyFriends",
     },
     {
         id: 2,
         title: "PKMN:TCG",
         img: "assets/PKMNlogo.jpeg",
+        src: "https://github.com/jtroina8/pokemonTCGWebsite"
     },
     {
         id: 3,
         title: "KewlBeans",
         img: "assets/KBlogo.jpeg",
+        src: "https://github.com/jtroina8/KewlBeans",
     },
     {
         id: 4,
@@ -22,113 +25,110 @@ export const featuredPortfolio = [
     {
         id: 5,
         title: "Love Calculator",
-        img: "assets/LClogo.png",
+        img: "assets/LClogo.jpeg",
+        src: "https://github.com/jtroina8/python_love_calculator",
     },
 ];
 
 export const webPortfolio = [
     {
         id: 1,
-        title: "Meowth",
-        img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwaters.crowdicity.com%2Fcategory%2F51438&psig=AOvVaw2NG2MU84r2RMex9D5dSGbD&ust=1644396839149000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCg597d7_UCFQAAAAAdAAAAABAJ",
+        title: "OnlyFriends",
+        img: "assets/OFlogo.jpg",
+        src: "https://github.com/jtroina8/onlyFriends",
     },
     {
         id: 2,
-        title: "Ekans",
-        img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwaters.crowdicity.com%2Fcategory%2F51438&psig=AOvVaw2NG2MU84r2RMex9D5dSGbD&ust=1644396839149000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCg597d7_UCFQAAAAAdAAAAABAJ",
+        title: "PKMN:TCG",
+        img: "assets/PKMNlogo.jpeg",
+        src: "https://github.com/jtroina8/pokemonTCGWebsite",
     },
     {
         id: 3,
-        title: "Koffin",
-        img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwaters.crowdicity.com%2Fcategory%2F51438&psig=AOvVaw2NG2MU84r2RMex9D5dSGbD&ust=1644396839149000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCg597d7_UCFQAAAAAdAAAAABAJ",
+        title: "Love Calculator",
+        img: "assets/LClogo.jpeg",
+        src: "https://github.com/jtroina8/python_love_calculator",
     },
     {
         id: 4,
-        title: "Tokapi",
-        img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwaters.crowdicity.com%2Fcategory%2F51438&psig=AOvVaw2NG2MU84r2RMex9D5dSGbD&ust=1644396839149000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCg597d7_UCFQAAAAAdAAAAABAJ",
+        title: "Tweeter",
+        img: "assets/tweeterlogo.png",
+        src: "https://github.com/jtroina8/TwitterJS_Frontend_Clone",
     },
 ];
 
 export const mobilePortfolio = [
     {
         id: 1,
-        title: "Articuno",
-        img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwaters.crowdicity.com%2Fcategory%2F51438&psig=AOvVaw2NG2MU84r2RMex9D5dSGbD&ust=1644396839149000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCg597d7_UCFQAAAAAdAAAAABAJ",
+        title: "KewlBeans",
+        img: "assets/KBlogo.jpeg",
+        src: "https://github.com/jtroina8/KewlBeans",
     },
     {
         id: 2,
-        title: "Zapados",
-        img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwaters.crowdicity.com%2Fcategory%2F51438&psig=AOvVaw2NG2MU84r2RMex9D5dSGbD&ust=1644396839149000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCg597d7_UCFQAAAAAdAAAAABAJ",
+        title: "Trekr",
+        img: "assets/Trekrlogo.jpeg",
+        src: "https://github.com/jtroina8/Trekr",
     },
     {
         id: 3,
-        title: "Moltres",
-        img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwaters.crowdicity.com%2Fcategory%2F51438&psig=AOvVaw2NG2MU84r2RMex9D5dSGbD&ust=1644396839149000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCg597d7_UCFQAAAAAdAAAAABAJ",
+        title: "Journal Journeys",
+        img: "assets/JJlogo.jpeg",
     },
     {
         id: 4,
-        title: "Lugia",
-        img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwaters.crowdicity.com%2Fcategory%2F51438&psig=AOvVaw2NG2MU84r2RMex9D5dSGbD&ust=1644396839149000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCg597d7_UCFQAAAAAdAAAAABAJ",
+        title: "Like It!",
+        img: "assets/LikeItlogo.jpeg",
+        src: "https://github.com/jtroina8/LikeItApp_RNPractice",
     },
 ];
 
 export const videoPortfolio = [
     {
         id: 1,
-        title: "Ponya",
-        img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwaters.crowdicity.com%2Fcategory%2F51438&psig=AOvVaw2NG2MU84r2RMex9D5dSGbD&ust=1644396839149000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCg597d7_UCFQAAAAAdAAAAABAJ",
+        title: "Conquer",
+        img: "assets/thumbnail1.jpg",
+        src: "https://www.youtube.com/watch?v=DCn7i70SLmM",
     },
     {
         id: 2,
-        title: "Raichu",
-        img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwaters.crowdicity.com%2Fcategory%2F51438&psig=AOvVaw2NG2MU84r2RMex9D5dSGbD&ust=1644396839149000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCg597d7_UCFQAAAAAdAAAAABAJ",
+        title: "Time for War",
+        img: "assets/thumbnail2.jpg",
+        src: "https://www.youtube.com/watch?v=L6VYrHu_Rjo",
     },
     {
         id: 3,
-        title: "Goldeen",
-        img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwaters.crowdicity.com%2Fcategory%2F51438&psig=AOvVaw2NG2MU84r2RMex9D5dSGbD&ust=1644396839149000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCg597d7_UCFQAAAAAdAAAAABAJ",
+        title: "Trailer",
+        img: "assets/thumbnail3.jpg",
+        src: "https://www.youtube.com/watch?v=cNHa7UjYHkc"
     },
     {
         id: 4,
-        title: "Ivysaur",
-        img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwaters.crowdicity.com%2Fcategory%2F51438&psig=AOvVaw2NG2MU84r2RMex9D5dSGbD&ust=1644396839149000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCg597d7_UCFQAAAAAdAAAAABAJ",
-    },
-    {
-        id: 5,
-        title: "Pidgey",
-        img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwaters.crowdicity.com%2Fcategory%2F51438&psig=AOvVaw2NG2MU84r2RMex9D5dSGbD&ust=1644396839149000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCg597d7_UCFQAAAAAdAAAAABAJ",
-    },
-    {
-        id: 6,
-        title: "Pidgeotto",
-        img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwaters.crowdicity.com%2Fcategory%2F51438&psig=AOvVaw2NG2MU84r2RMex9D5dSGbD&ust=1644396839149000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCg597d7_UCFQAAAAAdAAAAABAJ",
+        title: "Can't Stop Me",
+        img: "assets/thumbnail4.jpg",
+        src: "https://www.youtube.com/watch?v=3699hsuPq5k",
     },
 ];
 
 export const contentPortfolio = [
     {
         id: 1,
-        title: "Blastoise",
-        img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwaters.crowdicity.com%2Fcategory%2F51438&psig=AOvVaw2NG2MU84r2RMex9D5dSGbD&ust=1644396839149000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCg597d7_UCFQAAAAAdAAAAABAJ",
+        title: "Pikachu",
+        img: "assets/pikachu.png",
     },
     {
         id: 2,
-        title: "Ho-oh",
-        img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwaters.crowdicity.com%2Fcategory%2F51438&psig=AOvVaw2NG2MU84r2RMex9D5dSGbD&ust=1644396839149000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCg597d7_UCFQAAAAAdAAAAABAJ",
+        title: "Bulbasaur",
+        img: "assets/bulbasaur.png",
     },
     {
         id: 3,
-        title: "Mew",
-        img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwaters.crowdicity.com%2Fcategory%2F51438&psig=AOvVaw2NG2MU84r2RMex9D5dSGbD&ust=1644396839149000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCg597d7_UCFQAAAAAdAAAAABAJ",
+        title: "Squirtle",
+        img: "assets/squirtle.png",
     },
     {
         id: 4,
-        title: "Mewtwo",
-        img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwaters.crowdicity.com%2Fcategory%2F51438&psig=AOvVaw2NG2MU84r2RMex9D5dSGbD&ust=1644396839149000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCg597d7_UCFQAAAAAdAAAAABAJ",
-    },
-    {
-        id: 5,
-        title: "Arcanine",
-        img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwaters.crowdicity.com%2Fcategory%2F51438&psig=AOvVaw2NG2MU84r2RMex9D5dSGbD&ust=1644396839149000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCg597d7_UCFQAAAAAdAAAAABAJ",
+        title: "Charmander",
+        img: "assets/charmander.png",
     },
 ]
