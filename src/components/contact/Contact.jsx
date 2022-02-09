@@ -12,7 +12,7 @@ const handleSubmit = (e) => {
 
   return <div className="contact" id="contact">
     <div className="left">
-      <img src="assets/shake.png" alt="" />
+      <img src="assets/shake.jpeg" alt="" />
     </div>
     <div className="right">
       <h2>Contact</h2>
